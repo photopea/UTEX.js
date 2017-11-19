@@ -1,7 +1,5 @@
 # UTEX.js
-A fast, tiny tool for working with compressed textures (DDS etc.). 
-
-It can compress and decompress following formats:
+A fast, tiny tool for working with compressed textures (DDS etc.). It can compress and decompress following formats:
 
 - Decompress: **BC1, BC2, BC3, BC7** (a.k.a. DXT1, DXT3, DXT5, DX10) and **ATC** (ATI Texture Compression)
 - Compress: **BC1, BC3** (DXT1, DXT5)
